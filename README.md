@@ -1,32 +1,37 @@
 # Hi there! 👋 I'm Priyanshu Raj
 
-🚀 **Aspiring Full-Stack Developer** | 📚 **Computer Science Student** | 💡 **Passionate about Tech & Startups**
+🚀 **Aspiring Full-Stack Developer** | 📚 **Computer Science Student** | 💡 **Passionate about Tech & AI**
 
+---
 
 ## 🔹 About Me
 - 🎓 **CSE Student (2026 Batch)** @ Acharya Institute of Technology
-- 💻 Learning **Next.js | React.js | Supabase | PostgreSQL**
-- 🌍 Exploring **Full-Stack Development & AI-driven Applications**
-- 🚀 Currently working on an **AI Resume Analyzer**
-- 💡 Interested in **Web Development, Startups & Business Strategies**
+- 💻 Learning **Python | JavaScript | React.js | Streamlit**
+- 🌍 Exploring **AI-driven Applications & Web Development**
+- 🚀 Currently building an **AI Resume Analyzer** using **Python, Gemini API & Streamlit**
+- 💡 Interested in **Machine Learning, Automation & Scalable Tech Solutions**
 
+---
 
 ## 🛠 Tech Stack & Skills
 
-### **Frontend**
+### **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### **Backend & Database**
+### **Frontend Development**
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### **Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ### **Tools & Others**
@@ -36,14 +41,16 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
+---
 
 ## 📌 Featured Project
 
 ### 🧠 [AI Resume Analyzer](https://github.com/priyanshudas00/ai-resume-analyzer)
-- **Tech Stack:** Next.js, AI-based API, Supabase
-- **Description:** An AI-powered tool that analyzes resumes and provides feedback.
+- **Tech Stack:** Python, Gemini API, Streamlit
+- **Description:** An AI-powered tool that analyzes resumes and provides intelligent feedback for job seekers.
 - **Live Demo:** [Coming Soon]
 
+---
 
 ## 📫 Connect With Me
 
@@ -56,7 +63,8 @@
   </a>
 </p>
 
+---
 
 ## ⚡ Fun Fact
-💡 I love **building projects that solve real-world problems!** 🚀
+💡 I love **building AI-driven solutions that make a real impact!** 🚀
 
