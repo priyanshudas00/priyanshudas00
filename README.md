@@ -2,7 +2,6 @@
 
 🚀 **Aspiring Full-Stack Developer** | 📚 **Computer Science Student** | 💡 **Passionate about Tech & Startups**
 
----
 
 ## 🔹 About Me
 - 🎓 **CSE Student (2026 Batch)** @ Acharya Institute of Technology
@@ -11,7 +10,6 @@
 - 🚀 Currently working on an **AI Resume Analyzer**
 - 💡 Interested in **Web Development, Startups & Business Strategies**
 
----
 
 ## 🛠 Tech Stack & Skills
 
@@ -38,7 +36,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----
 
 ## 📌 Featured Project
 
@@ -47,7 +44,6 @@
 - **Description:** An AI-powered tool that analyzes resumes and provides feedback.
 - **Live Demo:** [Coming Soon]
 
----
 
 ## 📫 Connect With Me
 
@@ -60,7 +56,6 @@
   </a>
 </p>
 
----
 
 ## ⚡ Fun Fact
 💡 I love **building projects that solve real-world problems!** 🚀
