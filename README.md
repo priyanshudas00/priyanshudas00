@@ -10,7 +10,7 @@
 - 💻 Passionate about **Full-Stack Development, AI, and Scalable Software Solutions**
 - 🏆 Focused on **building industry-level projects** that solve real-world problems
 - 🚀 Currently working on **AI Resume Analyzer** (Python, Gemini API, Streamlit)
-- 🎯 **Goal:** Secure a **high-paying software engineering role (8 LPA+)**
+- 🎯 **Goal:** Secure a **high-paying software engineering role**
 
 
 
