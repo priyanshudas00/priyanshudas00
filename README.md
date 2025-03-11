@@ -44,6 +44,13 @@
 - **Live Demo:** [Coming Soon]
 
 
+### 🔍 [ScrapeEx](https://github.com/priyanshudas00/ScrapeEx)
+
+- **Tech Stack:** TypeScript, Vite, Tailwind CSS, JavaScript
+- **Description:** A web scraping tool that extracts structured data from web pages, including titles, headings, links, images, paragraphs, tables, and metadata.
+- **Why It Matters?** Useful for researchers, analysts, and developers who need to extract website data for insights, automation, or analysis.
+- **Live Demo:** [[Tap Here](https://euphonious-boba-0706da.netlify.app/)]
+
 
 ## 📫 Connect With Me
 
